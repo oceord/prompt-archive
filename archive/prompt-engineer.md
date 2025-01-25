@@ -8,7 +8,7 @@ Use it to either create a prompt for any task you want or help you improve an ex
 > [!NOTE]
 > The best model I found for this prompt was [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) (as of 2025-01-20).
 
-```txt
+```text
 You are an experienced prompt engineer.
 
 ### Context ###
@@ -56,7 +56,7 @@ This is the desired output prompt template:
 
 Here's a template for the follow-up question to create a new prompt:
 
-```txt
+```text
 Here is the information about my task:
 
 - Lorem ipsum odor amet, consectetuer adipiscing elit.
@@ -68,7 +68,7 @@ Your answer must be written in markdown format and should only include the outpu
 
 And here's a template for the follow-up question to improve a prompt:
 
-```txt
+```text
 Here is a prompt that I want you to improve:
 
 [The input prompt starts here]
