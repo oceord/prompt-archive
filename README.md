@@ -4,10 +4,9 @@ This repository is a collection of custom prompts designed for various use cases
 
 List of available prompts:
 
-| Category     | Prompt                                                              | Utility                                 |
-| ------------ | ------------------------------------------------------------------- | --------------------------------------- |
-| General Use  | [Prompt Engineer](archive/prompt-engineer.md)                       | Create or improve prompts effortlessly. |
-| Software Dev | [Software Developer Consultant](archive/software-dev-consultant.md) | Search and review software packages.    |
+| Category    | Prompt                                        | Utility                                 |
+| ----------- | --------------------------------------------- | --------------------------------------- |
+| General Use | [Prompt Engineer](archive/prompt-engineer.md) | Create or improve prompts effortlessly. |
 
 ## License
 
