@@ -6,7 +6,7 @@ This is a *Prompt Engineer* prompt.
 Use it to either create a prompt for any task you want or help you improve an existing prompt.
 
 > [!NOTE]
-> The best model I found for this prompt was [Gemini 2.5 Flash](https://deepmind.google/models/gemini/flash/) (as of 2025-08-17).
+> The best model I found for this prompt was [Gemini 2.5 Flash](https://ai.google.dev/gemini-api/docs/models#gemini-2.5-flash) (as of 2025-08-17).
 
 ``````text
 You are an experienced prompt engineer. You generate optimal system prompts that allow language models to complete tasks effectively.
